@@ -13,13 +13,17 @@ a {
   font-weight: bold;
   font-size: 70px;
 }
-p {
-  font-size: 18px;
-}
 h2 {
   font-size: 23px;
 }
 #newyork {
   color: white;
   background-image: url("/Users/ahsanulabeer/Documents/HTML/broadwaydesign/resources/images/the-flatiron-building.png");
+}
+.menu {
+  color: white;
+  font-size: 18px;
+}
+p {
+  font-size: 14px;
 }
