@@ -5,6 +5,7 @@ body {
 .header {
   color: white;
   background-image: url("/Users/ahsanulabeer/Documents/HTML/broadwaydesign/resources/images/the-flatiron-building.png");
+  font-weight: bold;
 }
 a {
   color: white;
@@ -15,6 +16,7 @@ a {
 }
 h2 {
   font-size: 23px;
+  font-weight: bold;
 }
 #newyork {
   color: white;
@@ -26,4 +28,13 @@ h2 {
 }
 p {
   font-size: 14px;
+}
+.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+}
+#final {
+  font-weight: bold;
 }
