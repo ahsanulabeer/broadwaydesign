@@ -4,7 +4,7 @@ body {
 }
 .header {
   color: white;
-  background-image: url("/Users/ahsanulabeer/Documents/HTML/broadwaydesign/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
   font-weight: bold;
 }
 a {
@@ -20,7 +20,7 @@ h2 {
 }
 #newyork {
   color: white;
-  background-image: url("/Users/ahsanulabeer/Documents/HTML/broadwaydesign/resources/images/the-flatiron-building.png");
+  background-image: url("resources/images/the-flatiron-building.png");
 }
 .menu {
   color: white;
